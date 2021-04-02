@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Apr 02 14:45:41 EDT 2021
+1.base=C\:\\Users\\Second\\AndroidStudioProjects\\android-advanced-starter-apps\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Second\\AndroidStudioProjects\\android-advanced-starter-apps\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=classes.dex
